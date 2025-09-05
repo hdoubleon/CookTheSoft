@@ -1,1 +1,3 @@
-#Becoming Michelin 3-star of software
+#Let's git it
+##Let’s do **Git** consistently, like I **work out** regularly.
+
